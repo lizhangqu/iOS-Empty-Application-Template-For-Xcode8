@@ -1,0 +1,1 @@
+复制 Empty Application.xctemplate到目录{Xcode.app}/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/Project Templates/iOS/Application/ 中
